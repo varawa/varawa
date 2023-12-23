@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varawa
+- 👋 Hi, I’m @varawa .
 - 👀 I’m interested in software development domain .
 - 🌱 I’m currently learning Data Structures and algorithms .
 - 💞️ I’m looking to collaborate on mini projects in related fields .
